@@ -6,12 +6,10 @@
 - ⚡ Fun fact:I love debugging—it feels like solving a mystery! (i just kidding)
 
 # 💫 About Me:
-👋 Hi, I’m @aimranehousni
-👀 I’m interested in web development, problem-solving, and building innovative applications
-🌱 I’m currently learning React.js and deepening my knowledge of full-stack development
-💞️ I’m looking to collaborate on open-source projects, web applications, or anything that challenges me to grow as a developer
-📫 How to reach me : hooaimrane@gmail.com
-⚡ Fun fact:I love debugging—it feels like solving a mystery! (i just kidding)
+👋 I am Aimrane, a Full-Stack Web Developer driven by a deep passion for creating web applications that combine simplicity and performance. My career is guided by a constant curiosity for modern technologies and a desire for innovation.
+
+💻
+I actively develop my skills in both front-end and back-end development, with the ambition of designing complete web solutions adapted to current needs. My learning approach is punctuated by practice and experimentation, allowing me to deepen my mastery of different frameworks and languages.
 
 
 ## 🌐 Socials:
